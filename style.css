@@ -1,5 +1,23 @@
-h2{
-   color: aqua;
-   border:10px dotted green;
-   padding:50px;
+
+.red-text{
+    
+        color: red;
+        text-align: center;
+        background-color: yellow;
+        padding:30px;
+        border: 5px solid green;
+      }
+   .blue-text{
+      color: blue;
+      border-top: 10px;
+      padding: 40px;
+      background-color: black;
+      
+   }
+.div-text{
+   border: 10px solid aqua;
+   padding: 30px;
+   
+   
+   
 }
