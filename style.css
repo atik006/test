@@ -9,7 +9,7 @@
         text-align: center;
         border: 0px solid red;
         font-size: 30px;
-        margin-top: 100px;
+        margin-top: 200px;
    }
 
 .aqua   {
@@ -21,10 +21,10 @@
 
 .img
    {
-     width: 100px;
+     width: 200px;
      border: 1px;
      border-radius: 100px;
-     left: 150px;
+     left: 42%;
      position: absolute;
      top: 10px;
    }
@@ -32,18 +32,40 @@
 .div2
    { background-color: yellow;
      border: 0px solid blue;
-     width:50%;
-     left: 95px;
+     width: 50%;
+     height:60px ;
+     left: 25%;
      position: relative;
      top: 30px;
      text-align: center;
-   }
-
-.div3
-  {  border: 1px;
-     background-color: red;
-     position: relative;
-     top: 17px;
      
    }
 
+.div3
+  {  
+     position: absolute ;
+     top: 320px;
+     width: 80px;
+     height: 50px;
+     left: 300px;
+   }
+.div4 
+   { 
+     position: absolute ;
+     top: 324px;
+     width: 45px;
+     height: 46px;
+     left: 620px;
+     border-radius: 30px;
+      
+   }
+.div5 
+   {
+     position: relative ;
+     top: 320px;
+     width: 80px;
+     height: 50px;
+     left: 400px;
+     border-radius: 10px;
+   
+   }
